@@ -21,6 +21,7 @@ while($row[] = $result->fetch_assoc()) {
 }
 } else {
     
+    
 }
 print($json);
 wh_log("PRINTED");
