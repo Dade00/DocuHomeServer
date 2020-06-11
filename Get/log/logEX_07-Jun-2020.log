@@ -1,0 +1,126 @@
+************** Start Log For Day : '2020-06-07 12:03:41am'**********
+DB CONNECTED
+W
+SELECT * FROM myUt WHERE userName='W'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 12:03:41am'**********
+************** Start Log For Day : '2020-06-07 12:03:48am'**********
+DB CONNECTED
+Woo
+SELECT * FROM myUt WHERE userName='Woo'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 12:03:48am'**********
+************** Start Log For Day : '2020-06-07 12:12:19am'**********
+DB CONNECTED
+Test
+SELECT * FROM myUt WHERE userName='Test'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 12:12:19am'**********
+************** Start Log For Day : '2020-06-07 12:12:23am'**********
+DB CONNECTED
+Test
+SELECT * FROM myUt WHERE userName='Test'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 12:12:23am'**********
+************** Start Log For Day : '2020-06-07 12:13:42am'**********
+DB CONNECTED
+Test
+SELECT * FROM myUt WHERE userName='Test'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 12:13:42am'**********
+************** Start Log For Day : '2020-06-07 12:13:51am'**********
+DB CONNECTED
+Test
+SELECT * FROM myUt WHERE userName='Test'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 12:13:51am'**********
+************** Start Log For Day : '2020-06-07 12:14:39am'**********
+DB CONNECTED
+Dade
+SELECT * FROM myUt WHERE userName='Dade'
+Exist
+PRINTED
+************** END Log For Day : '2020-06-07 12:14:39am'**********
+************** Start Log For Day : '2020-06-07 12:14:44am'**********
+DB CONNECTED
+Dade.e
+SELECT * FROM myUt WHERE userName='Dade.e'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 12:14:44am'**********
+************** Start Log For Day : '2020-06-07 01:39:51pm'**********
+DB CONNECTED
+Test
+SELECT * FROM myUt WHERE userName='Test'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 01:39:51pm'**********
+************** Start Log For Day : '2020-06-07 01:53:14pm'**********
+DB CONNECTED
+Dade
+SELECT * FROM myUt WHERE userName='Dade'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 01:53:14pm'**********
+************** Start Log For Day : '2020-06-07 01:54:44pm'**********
+DB CONNECTED
+Dade
+SELECT * FROM myUt WHERE userName='Dade'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 01:54:44pm'**********
+************** Start Log For Day : '2020-06-07 01:55:14pm'**********
+DB CONNECTED
+Dade
+SELECT * FROM myUt WHERE userName='Dade'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 01:55:14pm'**********
+************** Start Log For Day : '2020-06-07 02:18:27pm'**********
+DB CONNECTED
+Yesy
+SELECT * FROM myUt WHERE userName='Yesy'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 02:18:27pm'**********
+************** Start Log For Day : '2020-06-07 02:25:39pm'**********
+DB CONNECTED
+Test
+SELECT * FROM myUt WHERE userName='Test'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 02:25:39pm'**********
+************** Start Log For Day : '2020-06-07 02:25:48pm'**********
+DB CONNECTED
+t
+SELECT * FROM myUt WHERE userName='t'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 02:25:48pm'**********
+************** Start Log For Day : '2020-06-07 02:26:24pm'**********
+DB CONNECTED
+D
+SELECT * FROM myUt WHERE userName='D'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 02:26:24pm'**********
+************** Start Log For Day : '2020-06-07 02:26:38pm'**********
+DB CONNECTED
+Dade00
+SELECT * FROM myUt WHERE userName='Dade00'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 02:26:38pm'**********
+************** Start Log For Day : '2020-06-07 02:26:52pm'**********
+DB CONNECTED
+Dade00
+SELECT * FROM myUt WHERE userName='Dade00'
+NotExist
+PRINTED
+************** END Log For Day : '2020-06-07 02:26:52pm'**********

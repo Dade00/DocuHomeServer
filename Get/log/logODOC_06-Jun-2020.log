@@ -1,0 +1,133 @@
+************** Start Log For Day : '2020-06-06 09:48:30pm'**********
+DB CONNECTED
+7
+2
+PRINTED
+[{"ID":"7","docType":"0","expDate":"NOEXP","titolare":"jssi","remember":"0"}]
+************** END Log For Day : '2020-06-06 09:48:30pm'**********
+************** Start Log For Day : '2020-06-06 09:50:02pm'**********
+DB CONNECTED
+7
+2
+PRINTED
+[{"ID":"7","docType":"0","expDate":"NOEXP","titolare":"jssi","remember":"0"}]
+************** END Log For Day : '2020-06-06 09:50:02pm'**********
+************** Start Log For Day : '2020-06-06 09:50:18pm'**********
+DB CONNECTED
+7
+2
+PRINTED
+[{"ID":"7","docType":"0","expDate":"NOEXP","titolare":"jssi","remember":"0"}]
+************** END Log For Day : '2020-06-06 09:50:18pm'**********
+************** Start Log For Day : '2020-06-06 10:00:06pm'**********
+DB CONNECTED
+8
+2
+PRINTED
+[{"ID":"8","docType":"6","expDate":"27\/6\/2020","titolare":"test","remember":"1"}]
+************** END Log For Day : '2020-06-06 10:00:06pm'**********
+************** Start Log For Day : '2020-06-06 10:00:37pm'**********
+DB CONNECTED
+8
+2
+PRINTED
+[{"ID":"8","docType":"6","expDate":"27\/6\/2020","titolare":"test","remember":"1"}]
+************** END Log For Day : '2020-06-06 10:00:37pm'**********
+************** Start Log For Day : '2020-06-06 10:00:57pm'**********
+DB CONNECTED
+8
+2
+PRINTED
+[{"ID":"8","docType":"6","expDate":"27\/6\/2020","titolare":"test","remember":"1"}]
+************** END Log For Day : '2020-06-06 10:00:57pm'**********
+************** Start Log For Day : '2020-06-06 10:00:58pm'**********
+DB CONNECTED
+8
+2
+PRINTED
+[{"ID":"8","docType":"6","expDate":"27\/6\/2020","titolare":"test","remember":"1"}]
+************** END Log For Day : '2020-06-06 10:00:58pm'**********
+************** Start Log For Day : '2020-06-06 10:01:09pm'**********
+DB CONNECTED
+8
+2
+PRINTED
+[{"ID":"8","docType":"6","expDate":"27\/6\/2020","titolare":"test","remember":"1"}]
+************** END Log For Day : '2020-06-06 10:01:09pm'**********
+************** Start Log For Day : '2020-06-06 10:01:34pm'**********
+DB CONNECTED
+7
+2
+PRINTED
+[{"ID":"7","docType":"0","expDate":"NOEXP","titolare":"jssi","remember":"0"}]
+************** END Log For Day : '2020-06-06 10:01:34pm'**********
+************** Start Log For Day : '2020-06-06 10:01:40pm'**********
+DB CONNECTED
+8
+2
+PRINTED
+[{"ID":"8","docType":"6","expDate":"27\/6\/2020","titolare":"test","remember":"1"}]
+************** END Log For Day : '2020-06-06 10:01:40pm'**********
+************** Start Log For Day : '2020-06-06 10:03:14pm'**********
+DB CONNECTED
+8
+2
+PRINTED
+[{"ID":"8","docType":"6","expDate":"27\/6\/2020","titolare":"test","remember":"1"}]
+************** END Log For Day : '2020-06-06 10:03:14pm'**********
+************** Start Log For Day : '2020-06-06 10:03:33pm'**********
+DB CONNECTED
+7
+2
+PRINTED
+[{"ID":"7","docType":"0","expDate":"NOEXP","titolare":"jssi","remember":"0"}]
+************** END Log For Day : '2020-06-06 10:03:33pm'**********
+************** Start Log For Day : '2020-06-06 10:24:00pm'**********
+DB CONNECTED
+1
+1
+PRINTED
+[{"ID":"1","docType":"5","expDate":"NOEXP","titolare":"test","remember":"0"}]
+************** END Log For Day : '2020-06-06 10:24:00pm'**********
+************** Start Log For Day : '2020-06-06 10:24:11pm'**********
+DB CONNECTED
+3
+1
+PRINTED
+[{"ID":"3","docType":"0","expDate":"25\/6\/2020","titolare":"test","remember":"0"}]
+************** END Log For Day : '2020-06-06 10:24:11pm'**********
+************** Start Log For Day : '2020-06-06 10:25:11pm'**********
+DB CONNECTED
+4
+1
+PRINTED
+[{"ID":"4","docType":"0","expDate":"25\/6\/2020","titolare":"test","remember":"0"}]
+************** END Log For Day : '2020-06-06 10:25:11pm'**********
+************** Start Log For Day : '2020-06-06 10:46:28pm'**********
+DB CONNECTED
+2
+1
+PRINTED
+[{"ID":"2","docType":"5","expDate":"NOEXP","titolare":"test","remember":"0"}]
+************** END Log For Day : '2020-06-06 10:46:28pm'**********
+************** Start Log For Day : '2020-06-06 11:04:59pm'**********
+DB CONNECTED
+4
+1
+PRINTED
+[{"ID":"4","docType":"0","expDate":"25\/6\/2020","titolare":"test","remember":"0"}]
+************** END Log For Day : '2020-06-06 11:04:59pm'**********
+************** Start Log For Day : '2020-06-06 11:06:40pm'**********
+DB CONNECTED
+4
+1
+PRINTED
+[{"ID":"4","docType":"0","expDate":"25\/6\/2020","titolare":"test","remember":"0"}]
+************** END Log For Day : '2020-06-06 11:06:40pm'**********
+************** Start Log For Day : '2020-06-06 11:19:48pm'**********
+DB CONNECTED
+5
+1
+PRINTED
+[{"ID":"5","docType":"0","expDate":"24\/6\/2020","titolare":"tets","remember":"0"}]
+************** END Log For Day : '2020-06-06 11:19:48pm'**********

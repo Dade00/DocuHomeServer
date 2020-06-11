@@ -1,0 +1,34 @@
+************** Start Log For Day : '2020-06-06 10:00:29pm'**********
+DB CONNECTED
+8
+Fail: Table 'myDocs.myPics8' doesn't exist
+Fail: Table 'myDocs.myDoc' doesn't exist
+************** END Log For Day : '2020-06-06 10:00:29pm'**********
+************** Start Log For Day : '2020-06-06 10:01:15pm'**********
+DB CONNECTED
+8
+Fail: Table 'myDocs.myPics8' doesn't exist
+Fail: Table 'myDocs.myDoc8' doesn't exist
+************** END Log For Day : '2020-06-06 10:01:15pm'**********
+************** Start Log For Day : '2020-06-06 10:01:48pm'**********
+DB CONNECTED
+8
+Fail: Table 'myDocs.myPics8' doesn't exist
+Fail: Table 'myDocs.myDoc8' doesn't exist
+************** END Log For Day : '2020-06-06 10:01:48pm'**********
+************** Start Log For Day : '2020-06-06 10:03:20pm'**********
+DB CONNECTED
+8
+************** END Log For Day : '2020-06-06 10:03:20pm'**********
+************** Start Log For Day : '2020-06-06 10:24:01pm'**********
+DB CONNECTED
+1
+************** END Log For Day : '2020-06-06 10:24:01pm'**********
+************** Start Log For Day : '2020-06-06 10:24:12pm'**********
+DB CONNECTED
+3
+************** END Log For Day : '2020-06-06 10:24:12pm'**********
+************** Start Log For Day : '2020-06-06 10:46:29pm'**********
+DB CONNECTED
+2
+************** END Log For Day : '2020-06-06 10:46:29pm'**********
